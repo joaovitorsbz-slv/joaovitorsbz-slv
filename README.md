@@ -37,7 +37,7 @@
 
 ## GitHub Stats
 <div>
-  <a href="https://github.com/joaovitorsbz"></a>
+  <a href="https://github.com/joaovitorsbz-slv"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorsbz&count_private=true&show_icons=true&hide=contribs&theme=gruvbox"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorsbz&layout=compact&theme=gruvbox"/>
 </div>
